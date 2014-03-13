@@ -16,14 +16,11 @@ ul img{
 	left: 10px;
 
 }
-ol li {position: relative;
-	right: 10px;
+ol li {float: right;
 }
-ol img{position: relative;
-	right: 10px;
+ol img{float:right;
 }
-ol {position: relative;
-	right: 10px;
+ol {float: right;
 }
 #Adventures {right: 10px;}
 
@@ -32,10 +29,10 @@ ol {position: relative;
 footer {float: left; bottom:0; right:0; position:fixed; right:;}
 
 div {
-	
+
 	background: #fff; 
 	border: 6px solid #ccc;
-	height: 400px;
+	height: 200px;
 	margin: 20px;
 	padding: 20px;
 	width:400px;
