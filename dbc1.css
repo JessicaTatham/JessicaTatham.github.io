@@ -16,22 +16,18 @@ ul img{
 	left: 10px;
 
 }
-ol li {position: absolute;
-	top: 350px;
+ol li {position: relative;
 	float:right;
 }
-ol img{position: absolute;
-	top: 550px;
+ol img{position: relative;
 	float:right;
 }
 
 ol {float: right;
-	position: absolute;
-	top: 850px;
+	position: relative;
 }
 #Adventures {float: right;
-position:absolute;
-top: 200x;}
+position:absolute;}
 
 .turn_green:hover {color:#009933;}
 
