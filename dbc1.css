@@ -1,7 +1,8 @@
 h1 {font-size: 50px; font-family: Georgia; color: #48D1CC;}
 body {background-color: #4682B4; font-family: Georgia; font-size: 18px; border: black solid 5px;}
-.unordered-list {float: left;  overflow:auto;}
-.ordered-list{float: right;overflow:auto;}
+.unordered-list {float: left;}
+.ordered-list{float: right;}
+.Interests-Adventures {background:#404853; overflow:auto;}
 
 .turn_green:hover {color:#009933;}
 
