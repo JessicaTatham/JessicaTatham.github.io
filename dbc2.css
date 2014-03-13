@@ -1,3 +1,5 @@
-body {background-color: #99CCCC; border: black solid 5px;}
+body {background-color: #99CCCC;}
+
+h1 {border: black solid 5px}
 
 body img {float: left; border: 5px solid blue;}
