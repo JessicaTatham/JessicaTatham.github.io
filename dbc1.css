@@ -18,19 +18,20 @@ ul img{
 }
 ol li {position: relative;
 	float:right
-	top: 300px;
+	top: 10px;
 }
 ol img{position: relative;
 	float:right
-	top:500px;
+	top:50px;
 }
 
 ol {float: right;
 	position: relative;
-	top:800px;
+	top:80px;
 }
 #Adventures {float: right;
-position:relative;}
+position:relative;
+top:5px;}
 
 .turn_green:hover {color:#009933;}
 
