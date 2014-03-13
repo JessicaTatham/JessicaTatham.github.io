@@ -1,8 +1,17 @@
+
 h1 {font-size: 50px; font-family: Georgia; color: #48D1CC;}
 body {background-color: #4682B4; font-family: Georgia; font-size: 18px; border: black solid 5px;}
 ul {
 	position: absolute;
 	right: 10px;
+	top: 10px;
+}
+ol li {position: absolute;
+	left: 10px;
+	top: 10px;
+}
+ol img{position: absolute;
+	left: 10px;
 	top: 10px;
 }
 ol {position: absolute;
@@ -12,7 +21,7 @@ ol {position: absolute;
 
 .turn_green:hover {color:#009933;}
 
-footer {bottom:0; right:0; position:fixed; right:0;}
+footer {float: left; bottom:0; right:0; position:fixed; right:;}
 
 div {
 	background: #fff; 
