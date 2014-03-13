@@ -16,11 +16,15 @@ ul img{
 	left: 10px;
 
 }
-ol li {float: right;
+ol li {position: relative;
+	float: right;
 }
 ol img{float:right;
+	position: relative;
 }
+
 ol {float: right;
+	position:relative;
 }
 #Adventures {right: 10px;}
 
