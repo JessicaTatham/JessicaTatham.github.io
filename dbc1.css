@@ -4,37 +4,38 @@ body {background-color: #4682B4; font-family: Georgia; font-size: 18px; border: 
 
 
 ul {
-	position: absolute;
-	right: 10px;
+	position: relative;
+	left: 10px;
 }
 ul li{
-	position: absolute;
-	right: 10px;
+	position: relative;
+	left: 10px;
 }
 ul img{
 	position: relative;
-	right: 10px;
+	left: 10px;
 
 }
 ol li {position: relative;
-	left: 10px;
+	right: 10px;
 }
 ol img{position: relative;
-	left: 10px;
+	right: 10px;
 }
 ol {position: relative;
-	left: 10px;
+	right: 10px;
 }
-#Adventures {left: 10px;}
+#Adventures {right: 10px;}
 
 .turn_green:hover {color:#009933;}
 
 footer {float: left; bottom:0; right:0; position:fixed; right:;}
 
 div {
+	
 	background: #fff; 
 	border: 6px solid #ccc;
-	height: 100px;
+	height: 400px;
 	margin: 20px;
 	padding: 20px;
 	width:400px;
