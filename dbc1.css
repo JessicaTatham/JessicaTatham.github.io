@@ -4,7 +4,7 @@ body {background-color: #4682B4; font-family: Georgia; font-size: 18px; border: 
 
 .turn_green:hover {color:#009933;}
 
-footer {float: left; bottom:0; right:0; position:fixed; right:;}
+footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
 
 div {
 
