@@ -1,9 +1,24 @@
 h1 {font-size: 50px; font-family: Georgia; color: #48D1CC;}
 body {background-color: #4682B4; font-family: Georgia; font-size: 18px; border: black solid 5px;}
-.unordered-list {float: left;}
-.ordered-list{float: right;}
-.Interests-Adventures {background:#404853; overflow:auto;}
+ul {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+ol {position: absolute;
+	left: 10px;
+	top: 10px;
+}
 
 .turn_green:hover {color:#009933;}
 
-footer {bottom:0; left:0; position:fixed; right:0;}
+footer {bottom:0; right:0; position:fixed; right:0;}
+
+div {
+	background: #fff; 
+	border: 6px solid #ccc;
+	height: 100px;
+	margin: 20px;
+	padding: 20px;
+	width:400px;
+}
