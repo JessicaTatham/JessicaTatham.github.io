@@ -12,19 +12,20 @@ ul li{
 	right: 10px;
 }
 ul img{
-	position: absolute;
+	position: relative;
 	right: 10px;
 
 }
-ol li {position: absolute;
+ol li {position: relative;
 	left: 10px;
 }
-ol img{position: absolute;
+ol img{position: relative;
 	left: 10px;
 }
-ol {position: absolute;
+ol {position: relative;
 	left: 10px;
 }
+#Adventures {left: 10px;}
 
 .turn_green:hover {color:#009933;}
 
