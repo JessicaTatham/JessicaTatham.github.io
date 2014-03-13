@@ -2,37 +2,6 @@
 h1 {font-size: 50px; font-family: Georgia; color: #48D1CC;}
 body {background-color: #4682B4; font-family: Georgia; font-size: 18px; border: black solid 5px;}
 
-
-ul {
-	position: relative;
-	left: 10px;
-}
-ul li{
-	position: relative;
-	left: 10px;
-}
-ul img{
-	position: relative;
-	left: 10px;
-
-}
-ol li {position: relative;
-	float:right
-	top: 5px;
-}
-ol img{position: relative;
-	float:right
-	top:10px;
-}
-
-ol {float: right;
-	position: relative;
-	top:15px;
-}
-#Adventures {float: right;
-position:relative;
-top:0px;}
-
 .turn_green:hover {color:#009933;}
 
 footer {float: left; bottom:0; right:0; position:fixed; right:;}
