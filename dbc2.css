@@ -6,3 +6,10 @@ display: flex;
 flex-flow: row wrap;
 align-content:space-around;
 }
+ul li {list-style-type: square;}
+ .wrapper{
+      width: 100%;
+      max-width:1400px;
+      margin: 0 auto;
+  }
+  .turn_green:hover{color:#009933;}
