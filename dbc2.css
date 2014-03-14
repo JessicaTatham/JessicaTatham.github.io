@@ -4,9 +4,9 @@ h1 {border: black solid 3px}
 
 body img {float: center; position:relative; border: 5px solid white}
 
+aside {float:left;}
 
-
-#sidebar {position: absolute; top: 0; bottom:0; left:0; width: 1000px; background: none; font-size: 28px;}
+#sidebar {position: absolute; top: 50px; bottom:0; left:0; width: 100px; background: none; font-size: 18px;}
 
 #header {text-align: center; border: 1px solid #0000; width:200px; height:100px; margin:0 0 5px 0;}
 
