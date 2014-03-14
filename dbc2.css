@@ -6,7 +6,9 @@ body img {float: center; position:relative; border: 5px solid white}
 
 aside {float:left;}
 
-#sidebar {position: absolute; top: 50px; bottom:0; left:0; width: 100px; background: none; font-size: 18px;}
+.image-container p {text-align:center; text-overflow: ellipsis;}
+
+#sidebar {position: absolute; top: 70px; bottom:0; left:0; width: 100px; background: none; font-size: 18px;}
 
 #header {text-align: center; border: 1px solid #0000; width:200px; height:100px; margin:0 0 5px 0;}
 
