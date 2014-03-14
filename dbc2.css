@@ -6,10 +6,25 @@ body img {float: center; position:relative; border: 5px solid white}
 
 aside {float:left;}
 
+div.figure{max-width:100%;
+z-index:1;}
+
 div.figure p {
   text-align: center;
   font-style: italic;
   font-size: 28px;
+  display:block; 
+  width:100%; 
+  position: absolute; 
+  bottom: 5px; 
+  left:0; 
+  margin:0; 
+  padding:5px 0; 
+  text-indent:5px; 
+  z-index:2; 
+  color: #fff;
+  font-weight: bold;
+ 
 }
 
 #sidebar {position: absolute; top: 70px; bottom:0; left:0; width: 100px; background: none; font-size: 18px;}
