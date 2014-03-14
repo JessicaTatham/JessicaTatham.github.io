@@ -6,7 +6,7 @@ body img {float: center; position:relative; border: 5px solid white}
 
 aside {float:left;}
 
-.image-container p {text-align:center;}
+.span2 p {text-align:center;}
 
 #sidebar {position: absolute; top: 70px; bottom:0; left:0; width: 100px; background: none; font-size: 18px;}
 
