@@ -7,7 +7,7 @@ body img {float: center; position:relative; border: 5px solid white}
 aside {float:left;}
 
 div.figure {
-  float: right;
+  float: center;
   width: 30%;
   border: thin silver solid;
   margin: 0.5em;
@@ -16,8 +16,7 @@ div.figure {
 div.figure p {
   text-align: center;
   font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
+  font-size: 28px;
 }
 
 #sidebar {position: absolute; top: 70px; bottom:0; left:0; width: 100px; background: none; font-size: 18px;}
