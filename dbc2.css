@@ -2,11 +2,11 @@ body {background-color: #99CCCC; text-align: center}
 
 h1 {border: black solid 3px}
 
-body {float: center; position:relative; border: 5px solid white}
+body img {float: center; position:relative; border: 5px solid white}
 
 .caption {position:relative; height:450px; width:450px;}
-
-#text {z-index: 100; position: absolute; color:white; font-size:24px; font-weight:bold; left:150px; top:350px;}
+#image {position: absolute; text-align: center;}
+#text {z-index: 100; position: absolute; text-align: center; color:white; font-size:24px; font-weight:bold; left:150px; top:350px;}
 
 #sidebar {position: absolute; top: 0; bottom:0; left:0; width: 1000px; background: none; font-size: 28px;}
 
