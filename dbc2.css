@@ -1,4 +1,4 @@
-body {background-color: #99CCCC;}
+body {background-color: #99CCCC; text-align:center;}
 
 h1 {border: black solid 3px}
 
@@ -8,8 +8,8 @@ body img {float: left; position:relative; border: 5px solid white}
 
 #sidebar {position: relative; top: 0; bottom:0; left:0; width: 1000px; background: none;}
 
-header {border: 1px solid #0000; width:200px; height:100px; margin:0 0 5px 0;}
+#header {text-align: center; border: 1px solid #0000; width:200px; height:100px; margin:0 0 5px 0;}
 
 #content {border:1px solid #000; width: 200px; height:100px; margin:5px 0 5px 0;}
 
-footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
+#footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
