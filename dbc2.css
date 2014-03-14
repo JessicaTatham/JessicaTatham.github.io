@@ -6,7 +6,7 @@ body img {float: center; position:relative; border: 5px solid white}
 
 aside {float:left;}
 
-img div.figure p {
+div.figure p {
   text-align: center;
   font-style: italic;
   font-size: 28px;
