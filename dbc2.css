@@ -2,14 +2,14 @@ body {background-color: #99CCCC;}
 
 h1 {border: black solid 3px}
 
-body img {float: left; border: 5px solid white}
+body img {float: left; position:relative; border: 5px solid white}
 
 .container {position:relative; padding:0 0 0 55px;}
 
-#sidebar {position: absolute; top: 0; bottom:0; left:0; width: 1000px; background: none;}
+#sidebar {position: relative; top: 0; bottom:0; left:0; width: 1000px; background: none;}
 
-#header {border: 1px solid #0000; width:200px; height:100px; margin:0 0 5px 0;}
+header {border: 1px solid #0000; width:200px; height:100px; margin:0 0 5px 0;}
 
 #content {border:1px solid #000; width: 200px; height:100px; margin:5px 0 5px 0;}
 
-#footer {border:1px solid #000; width:100px; height:80px; margin:5px 0 0 0;}
+footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
