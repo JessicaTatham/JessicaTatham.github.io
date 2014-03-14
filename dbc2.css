@@ -2,7 +2,7 @@ body {background-color: #99CCCC; text-align:center;}
 
 h1 {border: black solid 3px}
 
-body img {float: left; position:relative; border: 5px solid white}
+body img {float: center; position:relative; border: 5px solid white}
 
 .container {position:relative; padding:0 0 0 55px;}
 
