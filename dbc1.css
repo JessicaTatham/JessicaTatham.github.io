@@ -14,6 +14,7 @@ div {
 	margin: 20px;
 	padding: 20px;
 	width:400px;
+	float: center;
 }
 
 ul {float: center;}
