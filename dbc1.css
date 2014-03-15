@@ -1,5 +1,5 @@
 
-h1 {float: center; font-size: 50px; font-family: Georgia; color: #48D1CC;}
+body h1 {float: center; font-size: 50px; font-family: Georgia; color: #48D1CC;}
 body {background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: black solid 5px;}
 
 .turn_green:hover {color:#99CCCC;}
