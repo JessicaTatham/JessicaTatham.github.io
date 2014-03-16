@@ -6,7 +6,7 @@ body {
 	border: black solid 5px;
 }
 
-div.background {
+body.background {
 	opacity: 0.4;
 	width: 600px;
 	height: 400px;
