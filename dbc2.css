@@ -26,6 +26,17 @@ div.figure p {
   font-weight: bold;
 }
 
+span {
+
+	background: #fff; 
+	border: 6px solid #ccc;
+	height: 170px;
+	margin: 20px;
+	padding: 20px;
+	width:200px;
+	float: center;
+}
+
 #sidebar {float: left; position: absolute; top: 70px; bottom:0; left:0; width: 150px; background: none; font-size: 18px;}
 
 #header {text-align: center; border: 1px solid #0000; width:200px; height:100px; margin:0 0 5px 0;}
