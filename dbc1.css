@@ -3,7 +3,8 @@ body h1 {text-align: center; font-size: 50px; font-family: Georgia; color: black
 body {background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: black solid 5px;}
 
 .turn_green:hover {color:#99CCCC;}
-#me {float:right;}
+
+#me {text-align:right; position: absolute; top: 300px;}
 
 
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
