@@ -1,26 +1,20 @@
 
-body h1 {float: center; font-size: 50px; font-family: Georgia; color: #0A0A0A;}
+body h1 {text-align: center; font-size: 50px; font-family: Georgia; color: black;}
 body {background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: black solid 5px;}
 
 .turn_green:hover {color:#99CCCC;}
 
-section {float:right;}
-
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
 
 div {
-
+	
 	background: #fff; 
 	border: 6px solid #ccc;
-	
-
 	height: 250px;
 	margin: 20px;
 	padding: 20px;
-	
-
-	width: 300px;
-	float: center;
+	width:300px;
+	text-align: center;
 }
 
 ul {float: center;}
