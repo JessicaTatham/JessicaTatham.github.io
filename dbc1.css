@@ -7,6 +7,8 @@ body {background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: 
 
 .turn_green:hover {color:#5F9EA0;}
 
+.me {float: right;}
+
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
 
 div h4 {
