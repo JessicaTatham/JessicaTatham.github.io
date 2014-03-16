@@ -5,8 +5,8 @@ body {background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: 
 .turn_green:hover {color:#99CCCC;}
 
 #me {position: absolute;
- top: 150px; 
- left:700px;}
+ top: 125px; 
+ left:725px;}
 
 
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
