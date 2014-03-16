@@ -9,7 +9,7 @@ body {background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: 
 
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
 
-div {
+div h4 {
 
 	background: #fff; 
 	border: 6px solid #ccc;
