@@ -7,18 +7,8 @@ body {
 
 }
 
-figcaption {font-size: 40px; color: black; position:absolute; top: 60px; right: 380px;}
-
-div .tb {
-	opacity: 0.4;
-	position:absolute;
-	width:1500px;
-	height:auto;
-	top:0
-	left:0px;
+figcaption {font-size: 40px; color: black; position:absolute; top: 60px; right: 385px;}
 	
-	
-}
 
 nav {
 	border:1px black solid;
