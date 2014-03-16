@@ -14,6 +14,7 @@ a:hover {color:#99CCCC;}
  top: 125px; 
  left:725px;}
 
+section div h4 {float:center;}
 
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
 
