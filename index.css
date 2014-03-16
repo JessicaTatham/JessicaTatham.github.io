@@ -5,4 +5,5 @@ div.background {
 	width: 600px;
 	height: 400px;
 	position:absolute;
+	left:0;
 }
