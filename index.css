@@ -1,4 +1,10 @@
-body {text-align: center; background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: black solid 5px;}
+body {
+	text-align: center; 
+	background-color: #99CCCC; 
+	font-family: Georgia; 
+	font-size: 18px; 
+	border: black solid 5px;
+}
 
 div.background {
 	opacity: 0.4;
@@ -6,4 +12,8 @@ div.background {
 	height: 400px;
 	position:absolute;
 	left:0;
+}
+
+nav {
+	border:1px black solid;
 }
