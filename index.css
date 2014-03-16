@@ -7,7 +7,7 @@ body {
 
 }
 
-figcaption {font-size: 40px; color: black; position:absolute; top: 60px;}
+figcaption {font-size: 40px; color: black; position:absolute; top: 60px; left: 40px;}
 
 div .tb {
 	opacity: 0.4;
