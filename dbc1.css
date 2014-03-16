@@ -4,7 +4,7 @@ body {background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: 
 
 .turn_green:hover {color:#99CCCC;}
 
-#me {position: absolute;
+#me {position: relative;
  top: 125px; 
  left:725px;}
 
