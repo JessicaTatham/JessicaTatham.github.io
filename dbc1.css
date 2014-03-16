@@ -1,34 +1,24 @@
 
-h1 {float:center;color: black;}
-
+body h1 {float: center; font-size: 50px; font-family: Georgia; color: #0A0A0A;}
 body {background-color: #99CCCC; font-family: Georgia; font-size: 18px; border: black solid 5px;}
 
-#sidebar {float: left; position: relative; top:100px; bottom:0; left:0; width: 75px; background: none; font-size: 18px;}
-
-.turn_green:hover {color:#5F9EA0;}
-
-.me {float: right;}
+.turn_green:hover {color:#99CCCC;}
 
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
 
-div h4 {
+div {
 
 	background: #fff; 
 	border: 6px solid #ccc;
-	height: 200px;
-	margin: 20px;
-	padding: 20px;
-	width:400px;
-	float: center;
-}
-span {
+	
 
-	background: #fff; 
-	border: 6px solid #ccc;
-	height: 170px;
+	height: 250px;
 	margin: 20px;
 	padding: 20px;
-	width:200px;
+	
+
+	width: 300px;
 	float: center;
 }
+
 ul {float: center;}
