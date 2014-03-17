@@ -12,6 +12,8 @@ figcaption {font-size: 40px; color: black; position:absolute; top: 60px; right: 
 
 nav {
 	border:1px black solid;
+	display: inline;
+	padding-right: 30px;
 }
 
 .button {
@@ -19,9 +21,4 @@ nav {
   text-decoration: none;
   background-color: #EEEEEE;
   color: #333333;
-  padding: 2px 6px 2px 6px;
-  border-top: 1px solid #99CCCC;
-  border-right: 1px solid #99CCCC;
-  border-bottom: 1px solid #99CCCC;
-  border-left: 1px solid #99CCCC;
 }
