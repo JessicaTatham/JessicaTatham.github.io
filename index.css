@@ -9,6 +9,7 @@ body {
 
 figcaption {font-size: 40px; color: black; position:absolute; top: 60px; right: 385px;}
 	
+figure img {overflow: hidden;}
 
 nav {
 	border:1px black solid;
@@ -21,4 +22,13 @@ nav {
   text-decoration: none;
   background-color: #EEEEEE;
   color: #333333;
+  display: block;
+  width: 150px;
+  height:25px;
+  background: white;
+  border: 1px solid black;
+  margin-top: 2px;
+  text-align: center;
+  overflow:hidden;
+  float:left;
 }
