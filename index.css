@@ -20,13 +20,13 @@ nav {
 nav a:hover {color:black;}
 
 .button {
-  font: bold 18px Georgia;
+  font: bold 22px Georgia;
   text-decoration: none;
   background-color: #EEEEEE;
   color: #333333;
   display: block;
-  width: 150px;
-  height:25px;
+  width: 1300px;
+  height:35px;
   background: white;
   border: 1px solid black;
   margin-top: 2px;
