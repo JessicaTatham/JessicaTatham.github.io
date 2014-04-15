@@ -7,15 +7,9 @@ body {
 
 }
 
-figcaption {font-size: 40px; color: black; position:absolute; top: 60px; right: 385px;}
+figcaption {font-size: 40px; color: black; top: 60px; right: 385px;}
 	
 figure img {overflow: hidden;}
-
-nav {
-	border:1px black solid;
-	display: inline;
-	padding-right: 30px;
-}
 
 nav a:hover {color:black;}
 
@@ -25,13 +19,11 @@ nav a:hover {color:black;}
   background-color: #EEEEEE;
   color: #333333;
   display: block;
-  width: 1300px;
+  width: 100%;
   height:35px;
   background: white;
   border: 1px solid black;
   margin-top: 2px;
   text-align: center;
-  margin-right: 40px;
-  margin-left: 25px;
   float:left;
 }
