@@ -6,6 +6,7 @@ body {
   background-color: #FFF; 
   border: black solid 5px;
   text-align:center;
+  line-height: 150%;
 }
 .navbar {text-align:center;}
 .navbar ul ul {
