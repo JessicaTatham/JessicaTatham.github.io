@@ -3,7 +3,7 @@ body {
 	background-color: #FFF; 
 	border: black solid 5px;
 }
-
+.navbar {background-color:#33CC99;}
 .navbar ul ul {
   display: none;
 }
