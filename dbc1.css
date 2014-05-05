@@ -96,7 +96,7 @@ section div h4 {float:center;}
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
 
 
-div {
+.bucket {
 	
 	background: #fff; 
 	border: 6px solid #ccc;
