@@ -82,7 +82,7 @@ figure img {overflow: hidden;}
 
 img {float: center;}
 
-.images {float: center; position:relative; border: 5px solid white}
+.images {float: center; position:relative; border: 5px solid #FFCC99}
 
 
 .figure{max-width:100%;
