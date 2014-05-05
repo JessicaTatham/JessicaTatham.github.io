@@ -73,3 +73,5 @@ body {
 figcaption {font-size: 40px; color: black; top: 60px; right: 385px;}
 	
 figure img {overflow: hidden;}
+
+.tracker {float:right;}
