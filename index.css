@@ -2,6 +2,7 @@ body {
 	
 	background-color: #FFF; 
 	border: black solid 5px;
+  text-align:center;
 }
 .navbar {text-align:center;}
 .navbar ul ul {
