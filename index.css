@@ -13,7 +13,7 @@ body {
   }
 
 .navbar ul {
-  background: #efefef; 
+  background: #33CC99; 
   background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);  
   background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
   background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); 
@@ -49,7 +49,7 @@ body {
   }
 
 .navbar ul ul {
-  background: #5f6975; border-radius: 0px; padding: 0;
+  background: #33CC99; border-radius: 0px; padding: 0;
   position: absolute; top: 100%;
 }
   .navbar ul ul li {
