@@ -96,15 +96,4 @@ section div h4 {float:center;}
 footer {float: left; bottom:0; right:0; position:fixed; right:5px;}
 
 
-.bucket {
-	
-	background: #fff; 
-	border: 6px solid #ccc;
-	height: 300px;
-	margin: 20px;
-	padding: 20px;
-	width:350px;
-	text-align: center;
-}
-
 ul {float: center;}
