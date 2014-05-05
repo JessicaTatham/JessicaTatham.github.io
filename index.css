@@ -13,7 +13,7 @@ body {
   }
 
 .navbar ul {
-  background: #FFF; 
+  background: #FFFF99; 
   background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);  
   background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
   background: -webkit-linear-gradient(top, #FFCC99 0%,#FFFF99 100%) 
