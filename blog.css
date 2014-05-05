@@ -1,6 +1,9 @@
+h1 {text-align: center;}
+
+
 body {
-	text-align: center; 
-	background-color: #EEEEEE; 
+	text-align: left; 
+	background-color: #99CCCC; 
 	font-family: Georgia; 
 	font-size: 18px; 
 	border: black solid 5px;
@@ -17,7 +20,7 @@ nav a:hover {color:black;}
   font: bold 22px Georgia;
   text-decoration: none;
   background-color: #99CCCC;
-  color: #99CCCC;
+  color: #333333;
   display: block;
   width: 100%;
   height:35px;
@@ -27,3 +30,4 @@ nav a:hover {color:black;}
   text-align: center;
   float:left;
 }
+img {float: center;}
