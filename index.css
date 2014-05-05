@@ -73,8 +73,8 @@ body {
   position: absolute; left: 100%; top:0;
 }
 
-figcaption {font-size: 40px; color: black; top: 70px; right: 385px;}
+figcaption {font-size: 40px; color: black; top: 70px; right: 385px; line-height:100%;}
 	
-figure img {overflow: hidden;}
+.img {overflow: hidden;}
 
 .tracker {float:right;}
