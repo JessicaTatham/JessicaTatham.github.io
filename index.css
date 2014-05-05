@@ -3,7 +3,7 @@ body {
 	background-color: #FFF; 
 	border: black solid 5px;
   text-align:center;
-  font-size:20px;
+  font-size:18px;
   line-height:130%;
 }
 .navbar {text-align:center;}
@@ -73,7 +73,7 @@ body {
   position: absolute; left: 100%; top:0;
 }
 
-figcaption {font-size: 40px; color: black; top: 60px; right: 385px;}
+figcaption {font-size: 40px; color: black; top: 70px; right: 385px;}
 	
 figure img {overflow: hidden;}
 
