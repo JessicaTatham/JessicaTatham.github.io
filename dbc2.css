@@ -82,14 +82,10 @@ figure img {overflow: hidden;}
 
 img {float: center;}
 
-body {background-color: #99CCCC; text-align: center}
-
-h1 {border: black solid 3px}
 
 body img {float: center; position:relative; border: 5px solid white}
 body div img {float: center; position:relative; border: 5px solid white}
 
-aside {float:left;}
 
 div.figure{max-width:100%;
 z-index:1;}
