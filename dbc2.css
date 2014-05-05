@@ -82,15 +82,13 @@ figure img {overflow: hidden;}
 
 img {float: center;}
 
-
-body img {float: center; position:relative; border: 5px solid white}
-body div img {float: center; position:relative; border: 5px solid white}
+.images {float: center; position:relative; border: 5px solid white}
 
 
-div.figure{max-width:100%;
+.figure{max-width:100%;
 z-index:1;}
 
-div.figure p {
+.figure p {
   text-align: center;
   font-style: italic;
   font-size: 28px;
