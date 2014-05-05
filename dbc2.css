@@ -3,7 +3,7 @@ h1 {text-align: center;}
 
 body {
   
-  background-color: #FFF; 
+  background-color: #FFCC99; 
   border: black solid 5px;
   text-align:center;
 }
@@ -82,7 +82,7 @@ figure img {overflow: hidden;}
 
 img {float: center;}
 
-.images {float: center; position:relative; border: 5px solid #FFCC99}
+.images {float: center; position:relative; border: 5px solid #FFF}
 
 
 .figure{max-width:100%;
